@@ -1,0 +1,601 @@
+State,Sector,Date,Water Consumed
+Malaysia,Domestic,2003,4394
+Malaysia,Domestic,2004,4770
+Malaysia,Domestic,2005,4992
+Malaysia,Domestic,2006,5025
+Malaysia,Domestic,2007,5381
+Malaysia,Domestic,2008,5466
+Malaysia,Domestic,2009,5531
+Malaysia,Domestic,2010,5602
+Malaysia,Domestic,2011,5695
+Malaysia,Domestic,2012,5873
+Malaysia,Domestic,2013,6064
+Malaysia,Domestic,2014,6267
+Malaysia,Domestic,2015,6378
+Malaysia,Domestic,2016,6490
+Malaysia,Domestic,2017,6447
+Malaysia,Domestic,2018,6605
+Malaysia,Domestic,2019,6811
+Malaysia,Domestic,2020,7179
+Malaysia,Domestic,2021,7540
+Malaysia,Domestic,2022,7353
+Malaysia,Non-Domestic,2003,2281
+Malaysia,Non-Domestic,2004,2339
+Malaysia,Non-Domestic,2005,2366
+Malaysia,Non-Domestic,2006,2606
+Malaysia,Non-Domestic,2007,2696
+Malaysia,Non-Domestic,2008,2868
+Malaysia,Non-Domestic,2009,3020
+Malaysia,Non-Domestic,2010,3370
+Malaysia,Non-Domestic,2011,3469
+Malaysia,Non-Domestic,2012,3659
+Malaysia,Non-Domestic,2013,3790
+Malaysia,Non-Domestic,2014,3909
+Malaysia,Non-Domestic,2015,4067
+Malaysia,Non-Domestic,2016,4249
+Malaysia,Non-Domestic,2017,4341
+Malaysia,Non-Domestic,2018,4476
+Malaysia,Non-Domestic,2019,4688
+Malaysia,Non-Domestic,2020,4298
+Malaysia,Non-Domestic,2021,4173
+Malaysia,Non-Domestic,2022,4433
+Johor,Domestic,2003,560
+Johor,Domestic,2004,610
+Johor,Domestic,2005,621
+Johor,Domestic,2006,644
+Johor,Domestic,2007,664
+Johor,Domestic,2008,682
+Johor,Domestic,2009,713
+Johor,Domestic,2010,730
+Johor,Domestic,2011,738
+Johor,Domestic,2012,769
+Johor,Domestic,2013,797
+Johor,Domestic,2014,823
+Johor,Domestic,2015,811
+Johor,Domestic,2016,773
+Johor,Domestic,2017,785
+Johor,Domestic,2018,809
+Johor,Domestic,2019,835
+Johor,Domestic,2020,867
+Johor,Domestic,2021,879
+Johor,Domestic,2022,867
+Johor,Non-Domestic,2003,246
+Johor,Non-Domestic,2004,225
+Johor,Non-Domestic,2005,235
+Johor,Non-Domestic,2006,255
+Johor,Non-Domestic,2007,289
+Johor,Non-Domestic,2008,300
+Johor,Non-Domestic,2009,285
+Johor,Non-Domestic,2010,306
+Johor,Non-Domestic,2011,323
+Johor,Non-Domestic,2012,341
+Johor,Non-Domestic,2013,366
+Johor,Non-Domestic,2014,391
+Johor,Non-Domestic,2015,448
+Johor,Non-Domestic,2016,513
+Johor,Non-Domestic,2017,535
+Johor,Non-Domestic,2018,576
+Johor,Non-Domestic,2019,599
+Johor,Non-Domestic,2020,526
+Johor,Non-Domestic,2021,505
+Johor,Non-Domestic,2022,536
+Kedah,Domestic,2003,388
+Kedah,Domestic,2004,412
+Kedah,Domestic,2005,420
+Kedah,Domestic,2006,434
+Kedah,Domestic,2007,471
+Kedah,Domestic,2008,470
+Kedah,Domestic,2009,474
+Kedah,Domestic,2010,444
+Kedah,Domestic,2011,459
+Kedah,Domestic,2012,474
+Kedah,Domestic,2013,487
+Kedah,Domestic,2014,510
+Kedah,Domestic,2015,511
+Kedah,Domestic,2016,525
+Kedah,Domestic,2017,523
+Kedah,Domestic,2018,544
+Kedah,Domestic,2019,551
+Kedah,Domestic,2020,574
+Kedah,Domestic,2021,590
+Kedah,Domestic,2022,560
+Kedah,Non-Domestic,2003,114
+Kedah,Non-Domestic,2004,134
+Kedah,Non-Domestic,2005,137
+Kedah,Non-Domestic,2006,132
+Kedah,Non-Domestic,2007,164
+Kedah,Non-Domestic,2008,167
+Kedah,Non-Domestic,2009,171
+Kedah,Non-Domestic,2010,213
+Kedah,Non-Domestic,2011,181
+Kedah,Non-Domestic,2012,165
+Kedah,Non-Domestic,2013,164
+Kedah,Non-Domestic,2014,187
+Kedah,Non-Domestic,2015,191
+Kedah,Non-Domestic,2016,200
+Kedah,Non-Domestic,2017,195
+Kedah,Non-Domestic,2018,201
+Kedah,Non-Domestic,2019,208
+Kedah,Non-Domestic,2020,193
+Kedah,Non-Domestic,2021,179
+Kedah,Non-Domestic,2022,217
+Kelantan,Domestic,2003,94
+Kelantan,Domestic,2004,102
+Kelantan,Domestic,2005,111
+Kelantan,Domestic,2006,116
+Kelantan,Domestic,2007,120
+Kelantan,Domestic,2008,122
+Kelantan,Domestic,2009,124
+Kelantan,Domestic,2010,124
+Kelantan,Domestic,2011,123
+Kelantan,Domestic,2012,130
+Kelantan,Domestic,2013,140
+Kelantan,Domestic,2014,154
+Kelantan,Domestic,2015,159
+Kelantan,Domestic,2016,163
+Kelantan,Domestic,2017,162
+Kelantan,Domestic,2018,164
+Kelantan,Domestic,2019,163
+Kelantan,Domestic,2020,170
+Kelantan,Domestic,2021,171
+Kelantan,Domestic,2022,162
+Kelantan,Non-Domestic,2003,35
+Kelantan,Non-Domestic,2004,40
+Kelantan,Non-Domestic,2005,46
+Kelantan,Non-Domestic,2006,48
+Kelantan,Non-Domestic,2007,49
+Kelantan,Non-Domestic,2008,51
+Kelantan,Non-Domestic,2009,53
+Kelantan,Non-Domestic,2010,55
+Kelantan,Non-Domestic,2011,56
+Kelantan,Non-Domestic,2012,58
+Kelantan,Non-Domestic,2013,62
+Kelantan,Non-Domestic,2014,71
+Kelantan,Non-Domestic,2015,73
+Kelantan,Non-Domestic,2016,76
+Kelantan,Non-Domestic,2017,79
+Kelantan,Non-Domestic,2018,85
+Kelantan,Non-Domestic,2019,85
+Kelantan,Non-Domestic,2020,75
+Kelantan,Non-Domestic,2021,68
+Kelantan,Non-Domestic,2022,77
+Melaka,Domestic,2003,153
+Melaka,Domestic,2004,144
+Melaka,Domestic,2005,150
+Melaka,Domestic,2006,155
+Melaka,Domestic,2007,196
+Melaka,Domestic,2008,202
+Melaka,Domestic,2009,173
+Melaka,Domestic,2010,177
+Melaka,Domestic,2011,180
+Melaka,Domestic,2012,187
+Melaka,Domestic,2013,193
+Melaka,Domestic,2014,196
+Melaka,Domestic,2015,202
+Melaka,Domestic,2016,206
+Melaka,Domestic,2017,206
+Melaka,Domestic,2018,209
+Melaka,Domestic,2019,210
+Melaka,Domestic,2020,215
+Melaka,Domestic,2021,230
+Melaka,Domestic,2022,228
+Melaka,Non-Domestic,2003,143
+Melaka,Non-Domestic,2004,122
+Melaka,Non-Domestic,2005,135
+Melaka,Non-Domestic,2006,132
+Melaka,Non-Domestic,2007,93
+Melaka,Non-Domestic,2008,98
+Melaka,Non-Domestic,2009,138
+Melaka,Non-Domestic,2010,150
+Melaka,Non-Domestic,2011,161
+Melaka,Non-Domestic,2012,175
+Melaka,Non-Domestic,2013,182
+Melaka,Non-Domestic,2014,180
+Melaka,Non-Domestic,2015,186
+Melaka,Non-Domestic,2016,199
+Melaka,Non-Domestic,2017,207
+Melaka,Non-Domestic,2018,207
+Melaka,Non-Domestic,2019,214
+Melaka,Non-Domestic,2020,189
+Melaka,Non-Domestic,2021,184
+Melaka,Non-Domestic,2022,190
+Negeri Sembilan,Domestic,2003,184
+Negeri Sembilan,Domestic,2004,183
+Negeri Sembilan,Domestic,2005,181
+Negeri Sembilan,Domestic,2006,190
+Negeri Sembilan,Domestic,2007,231
+Negeri Sembilan,Domestic,2008,237
+Negeri Sembilan,Domestic,2009,213
+Negeri Sembilan,Domestic,2010,229
+Negeri Sembilan,Domestic,2011,239
+Negeri Sembilan,Domestic,2012,247
+Negeri Sembilan,Domestic,2013,255
+Negeri Sembilan,Domestic,2014,259
+Negeri Sembilan,Domestic,2015,276
+Negeri Sembilan,Domestic,2016,287
+Negeri Sembilan,Domestic,2017,288
+Negeri Sembilan,Domestic,2018,293
+Negeri Sembilan,Domestic,2019,294
+Negeri Sembilan,Domestic,2020,318
+Negeri Sembilan,Domestic,2021,327
+Negeri Sembilan,Domestic,2022,307
+Negeri Sembilan,Non-Domestic,2003,122
+Negeri Sembilan,Non-Domestic,2004,112
+Negeri Sembilan,Non-Domestic,2005,121
+Negeri Sembilan,Non-Domestic,2006,108
+Negeri Sembilan,Non-Domestic,2007,87
+Negeri Sembilan,Non-Domestic,2008,92
+Negeri Sembilan,Non-Domestic,2009,122
+Negeri Sembilan,Non-Domestic,2010,180
+Negeri Sembilan,Non-Domestic,2011,172
+Negeri Sembilan,Non-Domestic,2012,192
+Negeri Sembilan,Non-Domestic,2013,213
+Negeri Sembilan,Non-Domestic,2014,217
+Negeri Sembilan,Non-Domestic,2015,217
+Negeri Sembilan,Non-Domestic,2016,233
+Negeri Sembilan,Non-Domestic,2017,231
+Negeri Sembilan,Non-Domestic,2018,238
+Negeri Sembilan,Non-Domestic,2019,244
+Negeri Sembilan,Non-Domestic,2020,222
+Negeri Sembilan,Non-Domestic,2021,222
+Negeri Sembilan,Non-Domestic,2022,231
+Pahang,Domestic,2003,211
+Pahang,Domestic,2004,214
+Pahang,Domestic,2005,223
+Pahang,Domestic,2006,233
+Pahang,Domestic,2007,308
+Pahang,Domestic,2008,320
+Pahang,Domestic,2009,271
+Pahang,Domestic,2010,264
+Pahang,Domestic,2011,286
+Pahang,Domestic,2012,287
+Pahang,Domestic,2013,299
+Pahang,Domestic,2014,303
+Pahang,Domestic,2015,309
+Pahang,Domestic,2016,342
+Pahang,Domestic,2017,333
+Pahang,Domestic,2018,333
+Pahang,Domestic,2019,339
+Pahang,Domestic,2020,367
+Pahang,Domestic,2021,391
+Pahang,Domestic,2022,385
+Pahang,Non-Domestic,2003,131
+Pahang,Non-Domestic,2004,136
+Pahang,Non-Domestic,2005,134
+Pahang,Non-Domestic,2006,142
+Pahang,Non-Domestic,2007,104
+Pahang,Non-Domestic,2008,111
+Pahang,Non-Domestic,2009,96
+Pahang,Non-Domestic,2010,168
+Pahang,Non-Domestic,2011,186
+Pahang,Non-Domestic,2012,209
+Pahang,Non-Domestic,2013,205
+Pahang,Non-Domestic,2014,216
+Pahang,Non-Domestic,2015,223
+Pahang,Non-Domestic,2016,238
+Pahang,Non-Domestic,2017,250
+Pahang,Non-Domestic,2018,256
+Pahang,Non-Domestic,2019,288
+Pahang,Non-Domestic,2020,264
+Pahang,Non-Domestic,2021,251
+Pahang,Non-Domestic,2022,283
+Perak,Domestic,2003,450
+Perak,Domestic,2004,474
+Perak,Domestic,2005,487
+Perak,Domestic,2006,486
+Perak,Domestic,2007,496
+Perak,Domestic,2008,508
+Perak,Domestic,2009,526
+Perak,Domestic,2010,552
+Perak,Domestic,2011,556
+Perak,Domestic,2012,592
+Perak,Domestic,2013,607
+Perak,Domestic,2014,623
+Perak,Domestic,2015,628
+Perak,Domestic,2016,655
+Perak,Domestic,2017,648
+Perak,Domestic,2018,665
+Perak,Domestic,2019,679
+Perak,Domestic,2020,706
+Perak,Domestic,2021,703
+Perak,Domestic,2022,699
+Perak,Non-Domestic,2003,150
+Perak,Non-Domestic,2004,161
+Perak,Non-Domestic,2005,175
+Perak,Non-Domestic,2006,182
+Perak,Non-Domestic,2007,185
+Perak,Non-Domestic,2008,190
+Perak,Non-Domestic,2009,194
+Perak,Non-Domestic,2010,210
+Perak,Non-Domestic,2011,216
+Perak,Non-Domestic,2012,217
+Perak,Non-Domestic,2013,228
+Perak,Non-Domestic,2014,236
+Perak,Non-Domestic,2015,250
+Perak,Non-Domestic,2016,262
+Perak,Non-Domestic,2017,260
+Perak,Non-Domestic,2018,268
+Perak,Non-Domestic,2019,278
+Perak,Non-Domestic,2020,266
+Perak,Non-Domestic,2021,266
+Perak,Non-Domestic,2022,289
+Perlis,Domestic,2003,47
+Perlis,Domestic,2004,50
+Perlis,Domestic,2005,50
+Perlis,Domestic,2006,51
+Perlis,Domestic,2007,50
+Perlis,Domestic,2008,54
+Perlis,Domestic,2009,49
+Perlis,Domestic,2010,63
+Perlis,Domestic,2011,62
+Perlis,Domestic,2012,57
+Perlis,Domestic,2013,65
+Perlis,Domestic,2014,81
+Perlis,Domestic,2015,81
+Perlis,Domestic,2016,82
+Perlis,Domestic,2017,78
+Perlis,Domestic,2018,80
+Perlis,Domestic,2019,80
+Perlis,Domestic,2020,78
+Perlis,Domestic,2021,80
+Perlis,Domestic,2022,80
+Perlis,Non-Domestic,2003,7
+Perlis,Non-Domestic,2004,12
+Perlis,Non-Domestic,2005,9
+Perlis,Non-Domestic,2006,10
+Perlis,Non-Domestic,2007,14
+Perlis,Non-Domestic,2008,9
+Perlis,Non-Domestic,2009,11
+Perlis,Non-Domestic,2010,9
+Perlis,Non-Domestic,2011,11
+Perlis,Non-Domestic,2012,10
+Perlis,Non-Domestic,2013,15
+Perlis,Non-Domestic,2014,15
+Perlis,Non-Domestic,2015,15
+Perlis,Non-Domestic,2016,14
+Perlis,Non-Domestic,2017,11
+Perlis,Non-Domestic,2018,10
+Perlis,Non-Domestic,2019,12
+Perlis,Non-Domestic,2020,12
+Perlis,Non-Domestic,2021,11
+Perlis,Non-Domestic,2022,18
+Pulau Pinang,Domestic,2003,377
+Pulau Pinang,Domestic,2004,388
+Pulau Pinang,Domestic,2005,400
+Pulau Pinang,Domestic,2006,408
+Pulau Pinang,Domestic,2007,427
+Pulau Pinang,Domestic,2008,439
+Pulau Pinang,Domestic,2009,451
+Pulau Pinang,Domestic,2010,468
+Pulau Pinang,Domestic,2011,459
+Pulau Pinang,Domestic,2012,475
+Pulau Pinang,Domestic,2013,481
+Pulau Pinang,Domestic,2014,483
+Pulau Pinang,Domestic,2015,483
+Pulau Pinang,Domestic,2016,492
+Pulau Pinang,Domestic,2017,482
+Pulau Pinang,Domestic,2018,491
+Pulau Pinang,Domestic,2019,499
+Pulau Pinang,Domestic,2020,533
+Pulau Pinang,Domestic,2021,547
+Pulau Pinang,Domestic,2022,534
+Pulau Pinang,Non-Domestic,2003,235
+Pulau Pinang,Non-Domestic,2004,250
+Pulau Pinang,Non-Domestic,2005,261
+Pulau Pinang,Non-Domestic,2006,275
+Pulau Pinang,Non-Domestic,2007,293
+Pulau Pinang,Non-Domestic,2008,305
+Pulau Pinang,Non-Domestic,2009,288
+Pulau Pinang,Non-Domestic,2010,315
+Pulau Pinang,Non-Domestic,2011,317
+Pulau Pinang,Non-Domestic,2012,321
+Pulau Pinang,Non-Domestic,2013,327
+Pulau Pinang,Non-Domestic,2014,330
+Pulau Pinang,Non-Domestic,2015,329
+Pulau Pinang,Non-Domestic,2016,335
+Pulau Pinang,Non-Domestic,2017,344
+Pulau Pinang,Non-Domestic,2018,349
+Pulau Pinang,Non-Domestic,2019,343
+Pulau Pinang,Non-Domestic,2020,314
+Pulau Pinang,Non-Domestic,2021,313
+Pulau Pinang,Non-Domestic,2022,334
+Sabah,Domestic,2003,156
+Sabah,Domestic,2004,207
+Sabah,Domestic,2005,254
+Sabah,Domestic,2006,294
+Sabah,Domestic,2007,294
+Sabah,Domestic,2008,252
+Sabah,Domestic,2009,259
+Sabah,Domestic,2010,222
+Sabah,Domestic,2011,279
+Sabah,Domestic,2012,305
+Sabah,Domestic,2013,314
+Sabah,Domestic,2014,330
+Sabah,Domestic,2015,315
+Sabah,Domestic,2016,338
+Sabah,Domestic,2017,323
+Sabah,Domestic,2018,341
+Sabah,Domestic,2019,366
+Sabah,Domestic,2020,313
+Sabah,Domestic,2021,425
+Sabah,Domestic,2022,394
+Sabah,Non-Domestic,2003,97
+Sabah,Non-Domestic,2004,106
+Sabah,Non-Domestic,2005,62
+Sabah,Non-Domestic,2006,26
+Sabah,Non-Domestic,2007,44
+Sabah,Non-Domestic,2008,112
+Sabah,Non-Domestic,2009,185
+Sabah,Non-Domestic,2010,175
+Sabah,Non-Domestic,2011,206
+Sabah,Non-Domestic,2012,225
+Sabah,Non-Domestic,2013,216
+Sabah,Non-Domestic,2014,248
+Sabah,Non-Domestic,2015,237
+Sabah,Non-Domestic,2016,249
+Sabah,Non-Domestic,2017,259
+Sabah,Non-Domestic,2018,275
+Sabah,Non-Domestic,2019,278
+Sabah,Non-Domestic,2020,224
+Sabah,Non-Domestic,2021,225
+Sabah,Non-Domestic,2022,238
+Sarawak,Domestic,2003,289
+Sarawak,Domestic,2004,336
+Sarawak,Domestic,2005,327
+Sarawak,Domestic,2006,352
+Sarawak,Domestic,2007,400
+Sarawak,Domestic,2008,409
+Sarawak,Domestic,2009,441
+Sarawak,Domestic,2010,449
+Sarawak,Domestic,2011,431
+Sarawak,Domestic,2012,432
+Sarawak,Domestic,2013,446
+Sarawak,Domestic,2014,469
+Sarawak,Domestic,2015,478
+Sarawak,Domestic,2016,463
+Sarawak,Domestic,2017,476
+Sarawak,Domestic,2018,487
+Sarawak,Domestic,2019,499
+Sarawak,Domestic,2020,548
+Sarawak,Domestic,2021,579
+Sarawak,Domestic,2022,602
+Sarawak,Non-Domestic,2003,201
+Sarawak,Non-Domestic,2004,227
+Sarawak,Non-Domestic,2005,220
+Sarawak,Non-Domestic,2006,226
+Sarawak,Non-Domestic,2007,259
+Sarawak,Non-Domestic,2008,266
+Sarawak,Non-Domestic,2009,274
+Sarawak,Non-Domestic,2010,324
+Sarawak,Non-Domestic,2011,321
+Sarawak,Non-Domestic,2012,336
+Sarawak,Non-Domestic,2013,345
+Sarawak,Non-Domestic,2014,341
+Sarawak,Non-Domestic,2015,368
+Sarawak,Non-Domestic,2016,385
+Sarawak,Non-Domestic,2017,395
+Sarawak,Non-Domestic,2018,409
+Sarawak,Non-Domestic,2019,468
+Sarawak,Non-Domestic,2020,448
+Sarawak,Non-Domestic,2021,440
+Sarawak,Non-Domestic,2022,463
+Selangor,Domestic,2003,1312
+Selangor,Domestic,2004,1474
+Selangor,Domestic,2005,1579
+Selangor,Domestic,2006,1460
+Selangor,Domestic,2007,1520
+Selangor,Domestic,2008,1562
+Selangor,Domestic,2009,1621
+Selangor,Domestic,2010,1655
+Selangor,Domestic,2011,1653
+Selangor,Domestic,2012,1686
+Selangor,Domestic,2013,1735
+Selangor,Domestic,2014,1779
+Selangor,Domestic,2015,1862
+Selangor,Domestic,2016,1883
+Selangor,Domestic,2017,1870
+Selangor,Domestic,2018,1916
+Selangor,Domestic,2019,2012
+Selangor,Domestic,2020,2186
+Selangor,Domestic,2021,2294
+Selangor,Domestic,2022,2230
+Selangor,Non-Domestic,2003,673
+Selangor,Non-Domestic,2004,694
+Selangor,Non-Domestic,2005,717
+Selangor,Non-Domestic,2006,932
+Selangor,Non-Domestic,2007,969
+Selangor,Non-Domestic,2008,1006
+Selangor,Non-Domestic,2009,1029
+Selangor,Non-Domestic,2010,1090
+Selangor,Non-Domestic,2011,1135
+Selangor,Non-Domestic,2012,1207
+Selangor,Non-Domestic,2013,1254
+Selangor,Non-Domestic,2014,1268
+Selangor,Non-Domestic,2015,1316
+Selangor,Non-Domestic,2016,1336
+Selangor,Non-Domestic,2017,1373
+Selangor,Non-Domestic,2018,1400
+Selangor,Non-Domestic,2019,1459
+Selangor,Non-Domestic,2020,1362
+Selangor,Non-Domestic,2021,1315
+Selangor,Non-Domestic,2022,1350
+Terengganu,Domestic,2003,156
+Terengganu,Domestic,2004,162
+Terengganu,Domestic,2005,172
+Terengganu,Domestic,2006,185
+Terengganu,Domestic,2007,187
+Terengganu,Domestic,2008,190
+Terengganu,Domestic,2009,198
+Terengganu,Domestic,2010,206
+Terengganu,Domestic,2011,208
+Terengganu,Domestic,2012,216
+Terengganu,Domestic,2013,230
+Terengganu,Domestic,2014,241
+Terengganu,Domestic,2015,246
+Terengganu,Domestic,2016,264
+Terengganu,Domestic,2017,256
+Terengganu,Domestic,2018,255
+Terengganu,Domestic,2019,266
+Terengganu,Domestic,2020,286
+Terengganu,Domestic,2021,302
+Terengganu,Domestic,2022,286
+Terengganu,Non-Domestic,2003,118
+Terengganu,Non-Domestic,2004,108
+Terengganu,Non-Domestic,2005,105
+Terengganu,Non-Domestic,2006,124
+Terengganu,Non-Domestic,2007,135
+Terengganu,Non-Domestic,2008,149
+Terengganu,Non-Domestic,2009,155
+Terengganu,Non-Domestic,2010,157
+Terengganu,Non-Domestic,2011,163
+Terengganu,Non-Domestic,2012,173
+Terengganu,Non-Domestic,2013,183
+Terengganu,Non-Domestic,2014,179
+Terengganu,Non-Domestic,2015,182
+Terengganu,Non-Domestic,2016,176
+Terengganu,Non-Domestic,2017,171
+Terengganu,Non-Domestic,2018,169
+Terengganu,Non-Domestic,2019,176
+Terengganu,Non-Domestic,2020,165
+Terengganu,Non-Domestic,2021,161
+Terengganu,Non-Domestic,2022,173
+W.P. Labuan,Domestic,2003,16
+W.P. Labuan,Domestic,2004,16
+W.P. Labuan,Domestic,2005,18
+W.P. Labuan,Domestic,2006,17
+W.P. Labuan,Domestic,2007,18
+W.P. Labuan,Domestic,2008,19
+W.P. Labuan,Domestic,2009,18
+W.P. Labuan,Domestic,2010,19
+W.P. Labuan,Domestic,2011,21
+W.P. Labuan,Domestic,2012,16
+W.P. Labuan,Domestic,2013,16
+W.P. Labuan,Domestic,2014,17
+W.P. Labuan,Domestic,2015,17
+W.P. Labuan,Domestic,2016,17
+W.P. Labuan,Domestic,2017,17
+W.P. Labuan,Domestic,2018,18
+W.P. Labuan,Domestic,2019,18
+W.P. Labuan,Domestic,2020,17
+W.P. Labuan,Domestic,2021,20
+W.P. Labuan,Domestic,2022,19
+W.P. Labuan,Non-Domestic,2003,9
+W.P. Labuan,Non-Domestic,2004,10
+W.P. Labuan,Non-Domestic,2005,10
+W.P. Labuan,Non-Domestic,2006,10
+W.P. Labuan,Non-Domestic,2007,11
+W.P. Labuan,Non-Domestic,2008,12
+W.P. Labuan,Non-Domestic,2009,18
+W.P. Labuan,Non-Domestic,2010,18
+W.P. Labuan,Non-Domestic,2011,20
+W.P. Labuan,Non-Domestic,2012,30
+W.P. Labuan,Non-Domestic,2013,31
+W.P. Labuan,Non-Domestic,2014,31
+W.P. Labuan,Non-Domestic,2015,32
+W.P. Labuan,Non-Domestic,2016,33
+W.P. Labuan,Non-Domestic,2017,31
+W.P. Labuan,Non-Domestic,2018,33
+W.P. Labuan,Non-Domestic,2019,36
+W.P. Labuan,Non-Domestic,2020,40
+W.P. Labuan,Non-Domestic,2021,32
+W.P. Labuan,Non-Domestic,2022,33
